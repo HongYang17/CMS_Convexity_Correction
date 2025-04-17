@@ -1,4 +1,4 @@
-# 📘 Fixed Income Securities Project – MSc Quantitative Finance
+# 📘 Fixed Income Securities Project
 
 ## 🧩 Part I – Bootstrapping Swap Curves
 
