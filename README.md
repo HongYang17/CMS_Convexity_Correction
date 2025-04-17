@@ -79,5 +79,5 @@ Each team member contributed to a specific section of the project.
 
 I was responsible for **Part III – Convexity Correction**.
 - 📓 [Part III – Convexity Correction Notebook](./group%20project/Part_III_Convexity_Correction.ipynb)  
-- 📄 [Part III – Convexity Correction Report (PDF)](./group%20project/part3.pdf)
+- 📄 [Part III – Convexity Correction Report (PDF)](./group_project/Part_III_report.pdf)
 
